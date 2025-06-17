@@ -1,6 +1,15 @@
 # agentapp
 
-A new Flutter project.
+A sample Flutter project.
+
+This repository contains a starting implementation of an agent application for
+collecting and tracking samples. The app demonstrates:
+
+- A simple role-based login screen
+- A home screen with tabs for task listings, map view and profile
+- Example tasks rendered as cards
+
+The code is meant as a foundation for further development.
 
 ## Getting Started
 
